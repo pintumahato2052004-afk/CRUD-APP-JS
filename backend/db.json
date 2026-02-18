@@ -1,0 +1,21 @@
+{
+  "employees": [
+    {
+      "firstname": "Pintu",
+      "middlename": "",
+      "lastname": "kumar",
+      "dob": "2020-08-14",
+      "email": "anmol@gmail.com",
+      "maritalstatus": "Single",
+      "phoneno": "7857658967",
+      "address": {
+        "street": "khurd",
+        "city": "siwan",
+        "state": "biharrr",
+        "country": "India",
+        "zipcode": "348957"
+      },
+      "id": "56cd"
+    }
+  ]
+}
