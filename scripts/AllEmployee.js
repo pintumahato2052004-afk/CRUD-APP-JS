@@ -29,13 +29,13 @@ function displayEmployee(allEmployee) {
        </header>
 
        <section class="emp-info">
-        <p><strong>Date of Birth:</strong>${emp.dob}</p> 
-        <p><strong>Marital Status:</strong>${emp.maritalstatus}</p>
+        <p><strong>Date of Birth: </strong>${emp.dob}</p> 
+        <p><strong>Marital Status: </strong>${emp.maritalstatus}</p>
        </section>
 
        <section class="emp-contact">
-        <p><strong>Email:</strong>${emp.email}</p>
-        <p><strong>Phone:</strong>${emp.phoneno}</p>
+        <p><strong>Email: </strong>${emp.email}</p>
+        <p><strong>Phone: </strong>${emp.phoneno}</p>
        </section>
 
        <section class="emp-address">
